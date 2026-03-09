@@ -1,16 +1,22 @@
-# thebasicsentral.org
-**Dev tools + builder communities**  
-*501(c)(3) nonprofit est. 2010, Martinez CA*
+# thebasicscentral.org
+**AI education, creative exploration, and builder communities**
+*501(c)(3) nonprofit est*
 
-## Our Programs
+## The Ecosystem
 
 | Product | Description | Status |
 |---------|-------------|--------|
-| **PR Kitchen** | AI slop PR filtering for clean repos | Private Beta |
-| **Dev Harbor** | Developer workflows & tools | Private Beta |
-| **Cookout** | Async builder potlucks for underrepresented devs | Coming soon |
+| **PRKitchen** | Helps developers prep, refine, and present their work cleanly before it hits the table | Coming Soon |
+| **DevHarbor** | Built for technical builders who need calm waters to do their best work | Coming Soon |
+| **The Speakeasy** | Where curiosity meets AI — for builders, educators, and anyone exploring the space between entertainment and learning | Coming Soon |
+| **The Cookout** | A potluck-style builder community for underrepresented creators, thinkers, and innovators. No gatekeeping, no prerequisites — just people showing up and building together | Coming Soon |
+
+## Mission
+
+Opening both doors into AI for everyone. Education, technology access, and the belief that the learning landscape should be open to anyone who wants to explore it.
 
 ## Ownership
-**All IP owned by thebasicsentral.org** (501(c)(3)
+**All IP owned by The Basics Central Inc.** (501(c)(3))
 
-[thebasicsentral.org](https://thebasicsentral.org) • info@thebasicsentral.org
+[thebasicscentral.org](https://thebasicscentral.org) • info@thebasicscentral.org
+
