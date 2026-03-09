@@ -1,6 +1,6 @@
 # thebasicscentral.org
 **AI education, creative exploration, and builder communities**
-*501(c)(3) nonprofit est*
+*501(c)(3) nonprofit est 2002
 
 ## The Ecosystem
 
