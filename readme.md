@@ -18,5 +18,4 @@ Opening both doors into AI for everyone. Education, technology access, and the b
 ## Ownership
 **All IP owned by The Basics Central Inc.** (501(c)(3))
 
-[thebasicscentral.org](https://thebasicscentral.org) • info@thebasicscentral.org
-
+[thebasicscentral.org](https://thebasicscentral.org) 
